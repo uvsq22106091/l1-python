@@ -1,4 +1,4 @@
-# Un premier programme Python
+"Python: Select Linter# Un premier programme Python
 
 1. Créez un fichier `hello.py` et ouvrez-le.
 1. Saisissez les lignes suivantes dans le fichier
